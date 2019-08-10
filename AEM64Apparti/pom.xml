@@ -516,8 +516,7 @@
             <dependency>
                 <groupId>com.day.cq.wcm</groupId>
                 <artifactId>cq-wcm-taglib</artifactId>
-                <version>5.7.4</version>
-                <scope>provided</scope>
+                <version>5.7.4</version>                
             </dependency>
             <!-- Testing -->
             <dependency>
